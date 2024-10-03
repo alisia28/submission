@@ -13,13 +13,12 @@ Tujuan akhirnya adalah untuk menghasilkan wawasan dan informasi yang berguna dar
 - `notebook.ipynb` : file jupyter notebook yang berisikan analisis data yang dilakukan
 - `README.md` : file informasi tentang proyek ini
 - `requirements.txt` : file yang berisikan library apa saja yang dilakukan pada proyek ini
-- `Dashboard-bikesharing-tirta.mp4` : Video recording yang menampilkan hasil dashboard yang telah dibuat
 
 ## Instalasi
 
 1. Clone Repository
 ```shell
-   git clone https://github.com/alisia28/belajar_analisis_data_dicoding.git
+   git clone https://github.com/alisia28/submission.git
 ```
 
 2. Melakukan installasi pustaka
@@ -30,7 +29,7 @@ Tujuan akhirnya adalah untuk menghasilkan wawasan dan informasi yang berguna dar
 
 3. Menjalankan proyek
 ```shell
-   cd belajar_analisis_data_dicoding/dashboard/
+   cd submission/dashboard/
    streamlit run dashboard.py
 ```
 
